@@ -121,16 +121,16 @@ function Home() {
   const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "BeautySalon",
-    "@id": "https://bindyasalon.com/#localbusiness",
+    "@id": "https://bindiyazbeautysalon.in/#localbusiness",
     "name": "Bindya Saloon - Best Beauty Salon in Ananthapuramu",
     "alternateName": "Bindya Beauty Salon",
     "description": "Best beauty salon in Ananthapuramu (Anantapur) offering bridal makeup, hair styling, facials, threading, waxing, manicure, pedicure and complete makeover services for women. Premium salon services in Anantapur, Andhra Pradesh.",
-    "image": "https://bindyasalon.com/images/bacpic.png",
-    "logo": "https://bindyasalon.com/images/logo.png",
-    "url": "https://bindyasalon.com/",
-    "telephone": "+91-XXXXXXXXXX",
-    "email": "contact@bindyasalon.com",
-    "priceRange": "₹₹",
+    "image": "https://bindiyazbeautysalon.in/images/bacpic.png",
+    "logo": "https://bindiyazbeautysalon.in/images/logo.png",
+    "url": "https://bindiyazbeautysalon.in/",
+    "telephone": "+91-6300593450",
+    "email": "bindiyabeautycare@gmail.com",
+    "priceRange": "₹30",
     "openingHours": ["Mo-Su 09:00-20:00"],
     "openingHoursSpecification": [
       {
@@ -163,8 +163,8 @@ function Home() {
     },
     "hasMap": "https://maps.google.com/?q=Ananthapuramu+Andhra+Pradesh",
     "sameAs": [
-      "https://www.instagram.com/bindyasalon",
-      "https://www.facebook.com/bindyasalon"
+      "https://www.instagram.com/bindiya_makeup_artist_atp/",
+      "https://www.facebook.com/share/18LkoJoBc9/"
     ],
     "makesOffer": [
       {
@@ -240,11 +240,11 @@ function Home() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "@id": "https://bindyasalon.com/#organization",
+    "@id": "https://bindiyazbeautysalon.in/#organization",
     "name": "Bindya Saloon",
     "alternateName": "Bindya Beauty Salon Ananthapuramu",
-    "url": "https://bindyasalon.com/",
-    "logo": "https://bindyasalon.com/images/logo.png",
+    "url": "https://bindiyazbeautysalon.in/",
+    "logo": "https://bindiyazbeautysalon.in/images/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+91-XXXXXXXXXX",
@@ -252,8 +252,8 @@ function Home() {
       "availableLanguage": ["English", "Telugu", "Hindi"]
     },
     "sameAs": [
-      "https://www.instagram.com/bindyasalon",
-      "https://www.facebook.com/bindyasalon"
+      "https://www.instagram.com/bindiya_makeup_artist_atp/",
+      "https://www.facebook.com/share/18LkoJoBc9/"
     ]
   };
 
@@ -261,15 +261,15 @@ function Home() {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "https://bindyasalon.com/#website",
-    "url": "https://bindyasalon.com/",
+    "@id": "https://bindiyazbeautysalon.in/#website",
+    "url": "https://bindiyazbeautysalon.in/",
     "name": "Bindya Saloon - Best Salon in Ananthapuramu",
     "description": "Best beauty salon in Ananthapuramu (Anantapur) for women. Premium bridal makeup, hair styling, facials, threading, waxing and beauty services.",
     "potentialAction": {
       "@type": "SearchAction",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://bindyasalon.com/search?q={search_term_string}"
+        "urlTemplate": "https://bindiyazbeautysalon.in/search?q={search_term_string}"
       },
       "query-input": "required name=search_term_string"
     }
@@ -298,13 +298,13 @@ function Home() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bindyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Best Beauty Salon in Ananthapuramu",
-        "item": "https://bindyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       }
     ]
   };
@@ -322,7 +322,7 @@ function Home() {
         <meta name="googlebot" content="index, follow" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href="https://bindyasalon.com/" />
+        <link rel="canonical" href="https://bindiyazbeautysalon.in/" />
         
         {/* Geo Meta Tags for Local SEO */}
         <meta name="geo.region" content="IN-AP" />
@@ -332,19 +332,19 @@ function Home() {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bindyasalon.com/" />
+        <meta property="og:url" content="https://bindiyazbeautysalon.in/" />
         <meta property="og:title" content="Bindya Saloon - Best Beauty Salon in Ananthapuramu (Anantapur) | Professional Bridal Makeup & Beauty Services" />
         <meta property="og:description" content="Best beauty salon in Ananthapuramu, Andhra Pradesh. Professional bridal makeup, hair styling, facials, threading, waxing & complete beauty services for women." />
-        <meta property="og:image" content="https://bindyasalon.com/images/bacpic.png" />
+        <meta property="og:image" content="https://bindiyazbeautysalon.in/images/bacpic.png" />
         <meta property="og:site_name" content="Bindya Saloon" />
         <meta property="og:locale" content="en_IN" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bindyasalon.com/" />
+        <meta property="twitter:url" content="https://bindiyazbeautysalon.in/" />
         <meta property="twitter:title" content="Bindya Saloon - Best Beauty Salon in Ananthapuramu (Anantapur)" />
         <meta property="twitter:description" content="Professional bridal makeup, hair styling, facials & beauty services for women in Ananthapuramu, Andhra Pradesh." />
-        <meta property="twitter:image" content="https://bindyasalon.com/images/bacpic.png" />
+        <meta property="twitter:image" content="https://bindiyazbeautysalon.in/images/bacpic.png" />
         
         {/* Mobile & Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
@@ -354,8 +354,8 @@ function Home() {
         <meta name="theme-color" content="#3A1026" />
         
         {/* Language Alternates */}
-        <link rel="alternate" href="https://bindyasalon.com/" hrefLang="en-in" />
-        <link rel="alternate" href="https://bindyasalon.com/te" hrefLang="te" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/" hrefLang="en-in" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/te" hrefLang="te" />
         
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
