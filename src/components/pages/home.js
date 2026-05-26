@@ -247,7 +247,7 @@ function Home() {
     "logo": "https://bindiyazbeautysalon.in/images/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-XXXXXXXXXX",
+      "telephone": "+91-6300593450",
       "contactType": "customer service",
       "availableLanguage": ["English", "Telugu", "Hindi"]
     },
