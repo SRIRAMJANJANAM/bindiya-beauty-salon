@@ -26,7 +26,7 @@ function ScrollToTop() {
 }
 
 function FloatingWhatsApp() {
-  const whatsappNumber = "918500352005";
+  const whatsappNumber = "916300593450";
 
   const message = encodeURIComponent(
     "Hello Bindiya'z The Signature Salon & Academy, I want to know more details."
