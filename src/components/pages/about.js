@@ -56,16 +56,16 @@ function About() {
   const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "BeautySalon",
-    "@id": "https://bindiyasalon.com/#localbusiness",
+    "@id": "https://bindiyazbeautysalon.in/#localbusiness",
     "name": "Bindiya'z The Signature Salon & Academy - Best Beauty Salon in Ananthapuramu",
     "alternateName": "Bindiya'z Salon and Academy Anantapur",
     "description": "Best beauty salon and professional makeup academy in Ananthapuramu (Anantapur), Andhra Pradesh. Led by founder SHAHIN with 18+ years experience. ISO certified academy offering bridal makeup, hairstyling, professional beauty services, makeup courses, mehendi training, tattoo art, and beauty parlour management courses.",
-    "image": "https://bindiyasalon.com/images/shaheen.png",
-    "logo": "https://bindiyasalon.com/images/logo.png",
-    "url": "https://bindiyasalon.com/about",
+    "image": "https://bindiyazbeautysalon.in/images/shaheen.png",
+    "logo": "https://bindiyazbeautysalon.in/images/logo.png",
+    "url": "https://bindiyazbeautysalon.in/about",
     "telephone": "+916300593450",
-    "email": "contact@bindiyasalon.com",
-    "priceRange": "₹₹",
+    "email": "contact@bindiyazbeautysalon.in",
+    "priceRange": "₹30",
     "openingHours": ["Mo-Su 09:00-20:00"],
     "openingHoursSpecification": [
       {
@@ -192,11 +192,11 @@ function About() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
-    "@id": "https://bindiyasalon.com/#organization",
+    "@id": "https://bindiyazbeautysalon.in/#organization",
     "name": "Bindiya'z The Signature Salon & Academy",
     "alternateName": "Bindiya'z Academy Anantapur",
-    "url": "https://bindiyasalon.com/",
-    "logo": "https://bindiyasalon.com/images/logo.png",
+    "url": "https://bindiyazbeautysalon.in/",
+    "logo": "https://bindiyazbeautysalon.in/images/logo.png",
     "description": "ISO certified beauty salon and professional makeup academy in Ananthapuramu, Andhra Pradesh. Best bridal makeup, beauty services, and makeup courses.",
     "address": {
       "@type": "PostalAddress",
@@ -232,7 +232,7 @@ function About() {
           "provider": {
             "@type": "EducationalOrganization",
             "name": "Bindiya'z The Signature Salon & Academy",
-            "sameAs": "https://bindiyasalon.com"
+            "sameAs": "https://bindiyazbeautysalon.in"
           },
           "educationalCredentialAwarded": "Advanced Diploma",
           "courseMode": "offline",
@@ -298,7 +298,7 @@ function About() {
   const personSchema = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://bindiyasalon.com/#founder",
+    "@id": "https://bindiyazbeautysalon.in/#founder",
     "name": "SHAHIN",
     "jobTitle": "Founder, Makeup Artist, Beauty Trainer, Assessor, Salon Professional",
     "worksFor": {
@@ -345,13 +345,13 @@ function About() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bindiyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "About Bindiya'z - Best Salon & Academy in Ananthapuramu",
-        "item": "https://bindiyasalon.com/about"
+        "item": "https://bindiyazbeautysalon.in/about"
       }
     ]
   };
@@ -370,7 +370,7 @@ function About() {
         <meta name="bingbot" content="index, follow" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href="https://bindiyasalon.com/about" />
+        <link rel="canonical" href="https://bindiyazbeautysalon.in/about" />
         
         {/* Geo Meta Tags for Local SEO - Ananthapuramu/Anantapur */}
         <meta name="geo.region" content="IN-AP" />
@@ -380,10 +380,10 @@ function About() {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bindiyasalon.com/about" />
+        <meta property="og:url" content="https://bindiyazbeautysalon.in/about" />
         <meta property="og:title" content="Bindiya'z The Signature Salon & Academy - Best Beauty Salon & Makeup Academy in Ananthapuramu (Anantapur) | SHAHIN Founder" />
         <meta property="og:description" content="ISO certified beauty salon and professional makeup academy in Ananthapuramu, Andhra Pradesh. Led by SHAHIN with 18+ years experience. Bridal makeup, beauty services, makeup courses, mehendi training, and beauty parlour management courses." />
-        <meta property="og:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="og:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         <meta property="og:image:alt" content="SHAHIN - Founder of Bindiya'z The Signature Salon & Academy Ananthapuramu" />
         <meta property="og:site_name" content="Bindiya'z The Signature Salon & Academy" />
         <meta property="og:locale" content="en_IN" />
@@ -391,10 +391,10 @@ function About() {
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bindiyasalon.com/about" />
+        <meta property="twitter:url" content="https://bindiyazbeautysalon.in/about" />
         <meta property="twitter:title" content="Bindiya'z Salon & Academy - Best Beauty Salon in Ananthapuramu" />
         <meta property="twitter:description" content="ISO certified beauty salon and makeup academy in Ananthapuramu. Bridal makeup, beauty courses, and professional training by SHAHIN with 18+ years experience." />
-        <meta property="twitter:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="twitter:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         
         {/* Mobile & Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
@@ -404,8 +404,8 @@ function About() {
         <meta name="theme-color" content="#3A1026" />
         
         {/* Language Alternates */}
-        <link rel="alternate" href="https://bindiyasalon.com/about" hrefLang="en-in" />
-        <link rel="alternate" href="https://bindiyasalon.com/te/about" hrefLang="te" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/about" hrefLang="en-in" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/te/about" hrefLang="te" />
         
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -436,7 +436,7 @@ function About() {
             "name": "Book Appointment at Bindiya'z Salon",
             "target": {
               "@type": "EntryPoint",
-              "urlTemplate": "https://bindiyasalon.com/booking",
+              "urlTemplate": "https://bindiyazbeautysalon.in/booking",
               "inLanguage": "en-IN",
               "actionPlatform": [
                 "http://schema.org/DesktopWebPlatform",

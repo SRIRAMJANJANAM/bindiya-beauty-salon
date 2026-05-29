@@ -154,10 +154,10 @@ Please confirm my appointment.`;
   const bookingSchema = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "@id": "https://bindiyasalon.com/booking",
+    "@id": "https://bindiyazbeautysalon.in/booking",
     "name": "Book Appointment - Best Beauty Salon in Ananthapuramu | Bindiya'z Salon & Academy",
     "description": "Book your appointment online at Bindiya'z The Signature Salon & Academy in Ananthapuramu (Anantapur). Professional bridal makeup, threading, waxing, facials, haircut, manicure, pedicure and beauty services. WhatsApp booking available.",
-    "url": "https://bindiyasalon.com/booking",
+    "url": "https://bindiyazbeautysalon.in/booking",
     "provider": {
       "@type": "BeautySalon",
       "name": "Bindiya'z The Signature Salon & Academy",
@@ -211,13 +211,13 @@ Please confirm my appointment.`;
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bindiyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Booking - Reserve Your Beauty Services in Ananthapuramu",
-        "item": "https://bindiyasalon.com/booking"
+        "item": "https://bindiyazbeautysalon.in/booking"
       }
     ]
   };
@@ -230,7 +230,7 @@ Please confirm my appointment.`;
     "description": "Schedule your beauty appointment online or via WhatsApp",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://bindiyasalon.com/booking",
+      "urlTemplate": "https://bindiyazbeautysalon.in/booking",
       "actionPlatform": [
         "http://schema.org/DesktopWebPlatform",
         "http://schema.org/MobileWebPlatform"
@@ -261,7 +261,7 @@ Please confirm my appointment.`;
         <meta name="bingbot" content="index, follow" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href="https://bindiyasalon.com/booking" />
+        <link rel="canonical" href="https://bindiyazbeautysalon.in/booking" />
         
         {/* Geo Meta Tags for Local SEO - Ananthapuramu/Anantapur */}
         <meta name="geo.region" content="IN-AP" />
@@ -271,10 +271,10 @@ Please confirm my appointment.`;
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bindiyasalon.com/booking" />
+        <meta property="og:url" content="https://bindiyazbeautysalon.in/booking" />
         <meta property="og:title" content="Book Appointment - Best Beauty Salon in Ananthapuramu (Anantapur) | Bindiya'z Salon & Academy" />
         <meta property="og:description" content="Book your beauty appointment online at Bindiya'z The Signature Salon & Academy in Ananthapuramu. Professional bridal makeup, threading, waxing, facials, haircut, manicure, pedicure & more. WhatsApp booking with instant confirmation." />
-        <meta property="og:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="og:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         <meta property="og:image:alt" content="Book Appointment at Bindiya'z Salon - Best Beauty Salon in Ananthapuramu" />
         <meta property="og:site_name" content="Bindiya'z The Signature Salon & Academy" />
         <meta property="og:locale" content="en_IN" />
@@ -282,10 +282,10 @@ Please confirm my appointment.`;
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bindiyasalon.com/booking" />
+        <meta property="twitter:url" content="https://bindiyazbeautysalon.in/booking" />
         <meta property="twitter:title" content="Book Appointment - Bindiya'z Salon - Best Beauty Salon in Ananthapuramu" />
         <meta property="twitter:description" content="Book your beauty appointment online via WhatsApp. Professional salon services for women in Ananthapuramu, Andhra Pradesh." />
-        <meta property="twitter:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="twitter:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         
         {/* Mobile & Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
@@ -295,8 +295,8 @@ Please confirm my appointment.`;
         <meta name="theme-color" content="#3A1026" />
         
         {/* Language Alternates */}
-        <link rel="alternate" href="https://bindiyasalon.com/booking" hrefLang="en-in" />
-        <link rel="alternate" href="https://bindiyasalon.com/te/booking" hrefLang="te" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/booking" hrefLang="en-in" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/te/booking" hrefLang="te" />
         
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -327,9 +327,9 @@ Please confirm my appointment.`;
             "name": "Bindiya'z The Signature Salon & Academy",
             "alternateName": "Bindiya'z Salon Ananthapuramu",
             "description": "Best beauty salon and professional makeup academy in Ananthapuramu (Anantapur), Andhra Pradesh. Book appointment online for bridal makeup, threading, waxing, facials, haircut, manicure, pedicure and beauty services.",
-            "url": "https://bindiyasalon.com/",
+            "url": "https://bindiyazbeautysalon.in/",
             "telephone": "+916300593450",
-            "email": "contact@bindiyasalon.com",
+            "email": "contact@bindiyazbeautysalon.in",
             "priceRange": "₹₹",
             "address": {
               "@type": "PostalAddress",

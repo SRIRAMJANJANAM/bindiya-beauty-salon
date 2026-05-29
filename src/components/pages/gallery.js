@@ -210,7 +210,7 @@ function Gallery() {
     "@type": "ImageGallery",
     "name": "Bindiya'z Salon & Academy Gallery - Best Beauty Salon in Ananthapuramu",
     "description": "Explore our professional beauty services gallery featuring bridal makeup, hairstyling, manicure, pedicure, waxing, threading, lip tint, and micro blading transformations in Ananthapuramu (Anantapur), Andhra Pradesh.",
-    "url": "https://bindiyasalon.com/gallery",
+    "url": "https://bindiyazbeautysalon.in/gallery",
     "provider": {
       "@type": "BeautySalon",
       "name": "Bindiya'z The Signature Salon & Academy",
@@ -268,13 +268,13 @@ function Gallery() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bindiyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Gallery - Beauty Services Showcase in Ananthapuramu",
-        "item": "https://bindiyasalon.com/gallery"
+        "item": "https://bindiyazbeautysalon.in/gallery"
       }
     ]
   };
@@ -292,7 +292,7 @@ function Gallery() {
         <meta name="googlebot" content="index, follow" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href="https://bindiyasalon.com/gallery" />
+        <link rel="canonical" href="https://bindiyazbeautysalon.in/gallery" />
         
         {/* Geo Meta Tags for Local SEO */}
         <meta name="geo.region" content="IN-AP" />
@@ -302,20 +302,20 @@ function Gallery() {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bindiyasalon.com/gallery" />
+        <meta property="og:url" content="https://bindiyazbeautysalon.in/gallery" />
         <meta property="og:title" content="Bindiya'z Salon Gallery - Best Beauty Services in Ananthapuramu (Anantapur)" />
         <meta property="og:description" content="View our professional beauty services gallery featuring bridal makeup, hairstyling, manicure, pedicure, waxing, threading, and micro blading transformations in Ananthapuramu, Andhra Pradesh." />
-        <meta property="og:image" content="https://bindiyasalon.com/images/bridal.png" />
+        <meta property="og:image" content="https://bindiyazbeautysalon.in/images/bridal.png" />
         <meta property="og:image:alt" content="Bridal Makeup Gallery - Best Beauty Salon in Ananthapuramu" />
         <meta property="og:site_name" content="Bindiya'z The Signature Salon & Academy" />
         <meta property="og:locale" content="en_IN" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bindiyasalon.com/gallery" />
+        <meta property="twitter:url" content="https://bindiyazbeautysalon.in/gallery" />
         <meta property="twitter:title" content="Bindiya'z Salon Gallery - Beauty Services in Ananthapuramu" />
         <meta property="twitter:description" content="Explore our beauty services gallery - Bridal makeup, hairstyling, manicure, pedicure and more in Anantapur." />
-        <meta property="twitter:image" content="https://bindiyasalon.com/images/bridal.png" />
+        <meta property="twitter:image" content="https://bindiyazbeautysalon.in/images/bridal.png" />
         
         {/* Mobile & Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
@@ -324,8 +324,8 @@ function Gallery() {
         <meta name="theme-color" content="#3A1026" />
         
         {/* Language Alternates */}
-        <link rel="alternate" href="https://bindiyasalon.com/gallery" hrefLang="en-in" />
-        <link rel="alternate" href="https://bindiyasalon.com/te/gallery" hrefLang="te" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/gallery" hrefLang="en-in" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/te/gallery" hrefLang="te" />
         
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />

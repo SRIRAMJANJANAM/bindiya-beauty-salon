@@ -103,10 +103,10 @@ Please respond to me.`;
   const contactPageSchema = {
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "@id": "https://bindiyasalon.com/contact",
+    "@id": "https://bindiyazbeautysalon.in/contact",
     "name": "Contact Bindiya'z Salon & Academy - Best Beauty Salon in Ananthapuramu (Anantapur)",
     "description": "Contact Bindiya'z The Signature Salon & Academy in Ananthapuramu (Anantapur), Andhra Pradesh for training enquiries, academy admissions, bridal makeup, beauty services, course fee details, certificate information, and general enquiries.",
-    "url": "https://bindiyasalon.com/contact",
+    "url": "https://bindiyazbeautysalon.in/contact",
     "provider": {
       "@type": "BeautySalon",
       "name": "Bindiya'z The Signature Salon & Academy",
@@ -141,11 +141,11 @@ Please respond to me.`;
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
-    "@id": "https://bindiyasalon.com/#organization",
+    "@id": "https://bindiyazbeautysalon.in/#organization",
     "name": "Bindiya'z The Signature Salon & Academy",
     "alternateName": "Bindiya'z Salon and Academy Anantapur",
-    "url": "https://bindiyasalon.com/",
-    "logo": "https://bindiyasalon.com/images/logo.png",
+    "url": "https://bindiyazbeautysalon.in/",
+    "logo": "https://bindiyazbeautysalon.in/images/logo.png",
     "description": "Best beauty salon and professional makeup academy in Ananthapuramu (Anantapur), Andhra Pradesh. ISO certified academy offering bridal makeup, beauty services, and professional training courses.",
     "address": {
       "@type": "PostalAddress",
@@ -176,13 +176,13 @@ Please respond to me.`;
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bindiyasalon.com/"
+        "item": "https://bindiyazbeautysalon.in/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Contact Bindiya'z - Best Salon & Academy in Ananthapuramu",
-        "item": "https://bindiyasalon.com/contact"
+        "item": "https://bindiyazbeautysalon.in/contact"
       }
     ]
   };
@@ -287,7 +287,7 @@ Please respond to me.`;
         <meta name="bingbot" content="index, follow" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href="https://bindiyasalon.com/contact" />
+        <link rel="canonical" href="https://bindiyazbeautysalon.in/contact" />
         
         {/* Geo Meta Tags for Local SEO - Ananthapuramu/Anantapur */}
         <meta name="geo.region" content="IN-AP" />
@@ -297,10 +297,10 @@ Please respond to me.`;
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bindiyasalon.com/contact" />
+        <meta property="og:url" content="https://bindiyazbeautysalon.in/contact" />
         <meta property="og:title" content="Contact Bindiya'z Salon & Academy - Best Beauty Salon in Ananthapuramu (Anantapur)" />
         <meta property="og:description" content="Contact Bindiya'z The Signature Salon & Academy in Ananthapuramu for training enquiries, academy admissions, bridal makeup, beauty services, and course fee details. Call or WhatsApp +916300593450." />
-        <meta property="og:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="og:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         <meta property="og:image:alt" content="Contact Bindiya'z Salon - Best Beauty Salon in Ananthapuramu" />
         <meta property="og:site_name" content="Bindiya'z The Signature Salon & Academy" />
         <meta property="og:locale" content="en_IN" />
@@ -308,10 +308,10 @@ Please respond to me.`;
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://bindiyasalon.com/contact" />
+        <meta property="twitter:url" content="https://bindiyazbeautysalon.in/contact" />
         <meta property="twitter:title" content="Contact Bindiya'z Salon - Best Beauty Salon in Ananthapuramu" />
         <meta property="twitter:description" content="Contact us for training enquiries, beauty services, and academy admissions in Ananthapuramu, Andhra Pradesh. Call or WhatsApp +916300593450." />
-        <meta property="twitter:image" content="https://bindiyasalon.com/images/shaheen.png" />
+        <meta property="twitter:image" content="https://bindiyazbeautysalon.in/images/shaheen.png" />
         
         {/* Mobile & Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
@@ -321,8 +321,8 @@ Please respond to me.`;
         <meta name="theme-color" content="#3A1026" />
         
         {/* Language Alternates */}
-        <link rel="alternate" href="https://bindiyasalon.com/contact" hrefLang="en-in" />
-        <link rel="alternate" href="https://bindiyasalon.com/te/contact" hrefLang="te" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/contact" hrefLang="en-in" />
+        <link rel="alternate" href="https://bindiyazbeautysalon.in/te/contact" hrefLang="te" />
         
         {/* Preconnect for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -359,10 +359,10 @@ Please respond to me.`;
             "name": "Bindiya'z The Signature Salon & Academy",
             "alternateName": "Bindiya'z Salon Ananthapuramu",
             "description": "Best beauty salon and professional makeup academy in Ananthapuramu (Anantapur), Andhra Pradesh. ISO certified offering bridal makeup, threading, waxing, facials, haircut, manicure, pedicure, and professional beauty training courses.",
-            "url": "https://bindiyasalon.com/",
+            "url": "https://bindiyazbeautysalon.in/",
             "telephone": "+916300593450",
-            "email": "contact@bindiyasalon.com",
-            "priceRange": "₹₹",
+            "email": "contact@bindiyazbeautysalon.in",
+            "priceRange": "₹30",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Main Road, Near Clock Tower",
@@ -414,7 +414,7 @@ Please respond to me.`;
               "addressRegion": "Andhra Pradesh"
             },
             "telephone": "+916300593450",
-            "email": "contact@bindiyasalon.com"
+            "email": "bindiyabeautucare@gmail.com"
           })}
         </script>
       </Helmet>
