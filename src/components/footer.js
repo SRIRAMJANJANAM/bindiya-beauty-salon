@@ -491,7 +491,7 @@ function Footer() {
           <p className="developed-by">
             Developed by{" "}
             <a
-              href="https://smyvisiontechnologies.vercel.app"
+              href="https://smyvisiontechnologies.com"
               target="_blank"
               rel="noopener noreferrer"
             >
